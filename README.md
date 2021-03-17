@@ -15,4 +15,4 @@ The autoencoder compression neural network resulted in successful compression an
 
 <b>All operations were performed in [a single jupyter notebook](https://github.com/nrishabh/atlas-autoencoder/blob/master/ATLAS%20Evaluation%20Task.ipynb). Detailed description and output of all operations can be found in the jupyter notebook itself.</b>
 
-A simple presentation was made based on the task, which can be viewed at https://docs.google.com/presentation/d/1WR0Vilcxm-NACnQCgLH4SHFNKxhz0Lc99LYqbqLP_iI/edit?usp=sharing.
+A simple presentation was made based on the task, which can be viewed [here](https://docs.google.com/presentation/d/1WR0Vilcxm-NACnQCgLH4SHFNKxhz0Lc99LYqbqLP_iI/edit?usp=sharing).
