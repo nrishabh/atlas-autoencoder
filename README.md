@@ -14,3 +14,5 @@ An autoencoder LeakyReLU neural network was modelled, trained and tested on the 
 The autoencoder compression neural network resulted in successful compression and reconstruction of compressed data with a MSE loss of 3.765139990719035e-05.
 
 <b>All operations were performed in [a single jupyter notebook](https://github.com/nrishabh/atlas-autoencoder/blob/master/ATLAS%20Evaluation%20Task.ipynb). Detailed description and output of all operations can be found in the jupyter notebook itself.
+
+A simple presentation was made based on the task, which can be viewed at https://docs.google.com/presentation/d/1WR0Vilcxm-NACnQCgLH4SHFNKxhz0Lc99LYqbqLP_iI/edit?usp=sharing.
