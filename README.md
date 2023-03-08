@@ -2,7 +2,7 @@
 
 An autoencoder neural network was used to compress the four-momentum of jets (obtained from a sample of simulated particles) from 4 to 3 variables. This task was performed as an evaluation exercise for Google Summer of Code 2021.
 
-### Prerequisites
+### Dataset & Starter Code
 The dataset and the base code were provided by the maintainers of [the ATLAS project](https://hepsoftwarefoundation.org/gsoc/projects/2020/project_ATLAS.html) at CERN.
 
 ### Concept
